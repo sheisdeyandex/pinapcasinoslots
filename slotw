@@ -1,2 +1,4 @@
-{"url":"https://yandex.com",
-"countries":"us,ru"}
+{
+    "url": "https://yandex.com",
+    "countries": "us,ru"
+}
